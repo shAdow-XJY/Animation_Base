@@ -70,4 +70,17 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Model Resource
-Content/*
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
+Content/Characters/Mannequin_UE4/*
+Content/Characters/Mannequins/Materials/*
+Content/Characters/Mannequins/Meshes/*
+Content/Characters/Mannequins/Rigs/*
+Content/Characters/Mannequins/Textures/*
+Content/Collections/*
+Content/Developers/*
+Content/LevelPrototyping/*
+Content/Mixamo/Mesh/*
+Content/StarterContent/*
+Content/MCO_Mocap_Basics/*
+Content/CloseCombatAnimSet/*
